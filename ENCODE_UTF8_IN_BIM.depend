@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1694386937 source:e:\encode_utf8_in_bim\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1694311291 e:\encode_utf8_in_bim\alfautf8_str.h
+
